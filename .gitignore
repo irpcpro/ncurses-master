@@ -1,0 +1,4 @@
+build*
+obj*/
+.pc/
+config.guess-stamp
